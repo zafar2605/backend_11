@@ -1,1 +1,1 @@
-func 90jafisnofion
+package main
